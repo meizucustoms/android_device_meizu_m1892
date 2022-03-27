@@ -1,5 +1,5 @@
 # Common BoardConfig
--include device/meizu/sdm845-common/BoardConfigSDM845.mk
+-include device/meizu/sdm845-common/BoardConfigCommon.mk
 
 # Path
 DEVICE_PATH := device/meizu/m1892
