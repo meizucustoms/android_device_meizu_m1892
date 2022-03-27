@@ -1,1 +1,1 @@
-../AndroidBoard.mk
+../sdm845-common/AndroidBoard.mk
