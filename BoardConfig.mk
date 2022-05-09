@@ -8,7 +8,7 @@ DEVICE_PATH := device/meizu/m1892
 TARGET_OTA_ASSERT_DEVICE := m1892,16thPlus
 
 # Kernel
-TARGET_KERNEL_CONFIG := ../m1892_defconfig
+TARGET_KERNEL_CONFIG := m1892_defconfig
 
 # Proprietary BoardConfig
 -include vendor/meizu/m1892/BoardConfigVendor.mk
